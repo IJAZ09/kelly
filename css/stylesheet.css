@@ -1,0 +1,18 @@
+.hello{
+    width: 100%;
+    min-width: 50px;
+    max-width: 2000px;
+    background-color: lightblue;
+    text-align: center;
+}
+.hello image{
+    max-width: 100%;
+    min-width: 100%;
+}
+.ijaz{
+    width: 100%;
+    text-align: center;
+    background-color: lightblue;
+}
+
+ 
